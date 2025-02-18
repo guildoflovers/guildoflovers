@@ -1508,6 +1508,13 @@ img[src] {
 .logo_logo__Pf8Jf:hover {
 	opacity: 0.8 !important;
 }
+.logo_logo__Pf8J1 {
+	width: 300px;
+    margin-left: -20px;
+}
+.logo_logo__Pf8J1:hover {
+	opacity: 0.8 !important;
+}
 .header_content_left__0VUrM nav {
     height: 100%;
 }
@@ -1913,6 +1920,14 @@ i {
     padding: 20px;
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
+}
+.bento-panel-footer {
+    width: calc(100% - 200px); 
+    margin: 0 auto;
+    border-radius: 20px 20px 0 0;
+    background: #1a1a1a;
+    padding: 20px;
+    box-sizing: border-box;
 }
 .bento-icon {
     fill: none;
