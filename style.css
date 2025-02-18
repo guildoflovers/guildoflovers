@@ -14,6 +14,14 @@ input {
     line-height: 1.15;
     margin: 0;
 }
+.bento-panel-footer {
+    width: calc(100% - 200px); 
+    margin: 0 auto;
+    border-radius: 20px 20px 0 0;
+    background: #1a1a1a;
+    padding: 20px;
+    box-sizing: border-box;
+}
 button,
 input {
     overflow: visible;
